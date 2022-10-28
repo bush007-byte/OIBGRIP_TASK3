@@ -1,0 +1,28 @@
+body {
+  padding-left: 10%;
+  padding-top: 15%;
+  padding-right: 10%;
+  background-color: cornflowerblue;
+  font-size: 30px;
+}
+form {
+	background-color: #d086df;
+	
+	align-items: center;
+	justify-content: center;
+
+	text-align: center;
+}
+input {
+	background-color: rgb(255, 255, 255);
+	border: none;
+	
+}
+input[type=number] {
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+#temp_diff,#submit {
+  padding: 12px 20px;
+}
